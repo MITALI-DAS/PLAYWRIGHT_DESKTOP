@@ -1,0 +1,33 @@
+Playwright installation commands
+###################################
+
+npm--node package manager
+npx --node package execution
+node_module---this folder contains playwright libraries
+
+step 1
+-------
+create an empty folder locally
+
+step 2
+--------------
+open the empty folder through visual studio(VS code)
+
+step 3
+--------------
+npm init -y
+this is used to initial package.json.This file will be created automatically once this command ran
+
+step 4
+--------------
+npm install -D @playwright/test
+above command will install playwright dependencies like node_modules(bin,@playwright,playwright,playwright core...etc files)
+
+step 5
+-------------
+ npm install --save-dev playwright typescript ts-node @types/node
+This command is used to initiate typescript belongs to playwright
+
+step 6
+-------------
+npx playwright install--installing all related browsers

@@ -1,0 +1,7 @@
+Locator/object/Element/inspector
+-----------------------------------
+id,name,class,xpath,text,role,testid
+Each element can be directly identified through above locators
+ex using id locator :await page.locator('#input-firstname').fill('Mitali')
+
+
