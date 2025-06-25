@@ -16,7 +16,8 @@ async goto() {
     await this.page.goto('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
 } 
-/*async enterUserName(userNameInput:string)  {
+/*async enterUserName(userNameInput:string) 
+  {
 await this.userName.fill(userNameInput)
 } 
 
