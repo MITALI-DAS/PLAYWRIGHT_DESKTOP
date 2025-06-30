@@ -1,0 +1,14 @@
+navigate to jenkin url
+http://localhost:8080/
+
+eneter usre id and pwd
+
+new item---freestyle-->ok
+Go to source code mgmt-->select GIT-->Enter Github link(Go to GIT---navigate to ur repository---From CODE..>Expand and get the HTTPS URL and from Git BASH
+'https://github.com/MITALI-DAS/PLAYWRIGHT_DESKTOP.git'
+)
+
+
+1st do some change in Visual studio....Push and commit/Sync to Git
+From Jenkin run that changes
+jenkin is headless...it will run in background and it will send the result to ur email id
