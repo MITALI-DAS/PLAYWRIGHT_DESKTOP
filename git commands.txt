@@ -1,0 +1,26 @@
+GIT
+---------
+For clonning the whole project from main to ur desktop
+
+git clone https://github.com/MITALI-DAS/PLAYWRIGHT_DESKTOP.git
+
+GIT push---
+
+create a branch
+enter message in Visual studio and do Push and commit
+
+Check in Git,new code ll be available
+
+Go to GIT---navigate to ur repository---From CODE..>Expand and get the HTTPS URL and from Git BASH
+'https://github.com/MITALI-DAS/PLAYWRIGHT_DESKTOP.git'
+
+clone https://github.com/MITALI-DAS/PLAYWRIGHT_DESKTOP.git
+
+GIT PULL
+------------
+from Visual Studio-->Changes-->... CHOOSE pULL FROM OPTION-->sELECT THE BRANCH AND 
+
+To learn
+------------
+git push/pull/Clone
+
